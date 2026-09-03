@@ -1,0 +1,10 @@
+Card: Card 4
+Title: Citizen Dashboard
+Member: Ria Akter
+Status: In Progress
+
+Description:
+- Emergency information
+- Relief requests
+- Request status
+- Notifications
