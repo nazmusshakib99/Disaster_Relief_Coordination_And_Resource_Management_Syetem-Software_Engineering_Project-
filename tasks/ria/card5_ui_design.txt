@@ -1,0 +1,9 @@
+Card: Card 5
+Title: UI Design
+Member: Ria Akter
+Status: In Progress
+
+Description:
+- Login/Registration
+- Emergency Reporting
+- Relief Assistance Request
