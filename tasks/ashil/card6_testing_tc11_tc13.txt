@@ -1,0 +1,9 @@
+Card: Card 6
+Title: Testing — TC_11 to TC_13
+Member: Ashil 
+Status: In Progress
+
+Description:
+- TC_11: Verify NGO/organization can register with valid details
+- TC_12: Verify organization profile can be updated
+- TC_13: Verify relief request status changes are tracked correctly
