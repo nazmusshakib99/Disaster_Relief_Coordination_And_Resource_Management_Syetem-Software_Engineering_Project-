@@ -1,0 +1,12 @@
+Card: Card 1
+Title: Resource Inventory Management
+Member: Nazmus Shakib
+Status: In Progress
+
+Description:
+- Add resource
+- Update quantity
+- Track resource location
+- Track available resources
+- Low-stock notification
+- Test inventory functionality
