@@ -1,0 +1,9 @@
+Card: Card 8
+Title: Testing — TC_08 to TC_10
+Member: Nazmus Shakib
+Status: In Progress
+
+Description:
+- TC_08: Verify organization can add a resource to the inventory
+- TC_09: Verify coordinator can allocate resources to an affected area
+- TC_10: Verify citizen receives a notification when request status changes
