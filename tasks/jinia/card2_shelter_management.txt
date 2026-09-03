@@ -1,0 +1,11 @@
+Card: Card 2
+Title: Shelter Management
+Member: Jinia Akter Hira
+Status: In Progress
+
+Description:
+- Add shelter
+- Update shelter
+- Capacity
+- Availability
+- Shelter status
