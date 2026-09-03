@@ -1,0 +1,10 @@
+Card: Card 5
+Title: Reports & Monitoring
+Member: Nazmus Shakib
+Status: In Progress
+
+Description:
+- Emergency reports
+- Relief distribution reports
+- Volunteer activity
+- Shelter occupancy
