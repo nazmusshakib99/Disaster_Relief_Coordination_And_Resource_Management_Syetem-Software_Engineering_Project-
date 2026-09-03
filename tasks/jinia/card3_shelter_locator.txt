@@ -1,0 +1,9 @@
+Card: Card 3
+Title: Shelter Locator
+Member: Jinia Akter Hira
+Status: In Progress
+
+Description:
+- Search shelter
+- Location-based filtering
+- Available shelter display

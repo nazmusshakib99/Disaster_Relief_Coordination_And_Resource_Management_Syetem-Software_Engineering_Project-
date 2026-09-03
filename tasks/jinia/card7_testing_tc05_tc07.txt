@@ -1,0 +1,9 @@
+Card: Card 7
+Title: Testing — TC_05 to TC_07
+Member: Jinia Akter Hira
+Status: In Progress
+
+Description:
+- TC_05: Verify shelter manager can add a new shelter
+- TC_06: Verify volunteer registration with skills and availability
+- TC_07: Verify coordinator can assign a task to a verified volunteer

@@ -1,0 +1,9 @@
+Card: Card 6
+Title: UI Design
+Member: Jinia Akter Hira
+Status: In Progress
+
+Description:
+- Citizen Dashboard
+- Shelter Locator
+- Volunteer Dashboard
