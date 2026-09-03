@@ -1,0 +1,11 @@
+Card: Card 2
+Title: Resource Allocation & Distribution
+Member: Nazmus Shakib
+Status: In Progress
+
+Description:
+- Select relief request
+- Select available resource
+- Allocate quantity
+- Update inventory automatically
+- Store distribution history
