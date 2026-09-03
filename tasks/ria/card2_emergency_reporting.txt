@@ -1,0 +1,11 @@
+Card: Card 2
+Title: Emergency Reporting
+Member: Ria Akter
+Status: In Progress
+
+Description:
+- Emergency type
+- Description
+- Location
+- Required assistance
+- Date/time
