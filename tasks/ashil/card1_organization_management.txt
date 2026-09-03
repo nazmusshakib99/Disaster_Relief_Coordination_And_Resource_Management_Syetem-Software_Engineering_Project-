@@ -1,0 +1,10 @@
+Card: Card 1
+Title: Organization Management
+Member: Ashil 
+Status: In Progress
+
+Description:
+- NGO registration
+- Organization profile
+- Contact information
+- Organization verification

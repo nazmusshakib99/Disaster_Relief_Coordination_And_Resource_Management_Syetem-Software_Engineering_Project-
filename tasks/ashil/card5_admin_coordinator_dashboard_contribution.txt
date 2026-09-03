@@ -1,0 +1,7 @@
+Card: Card 5
+Title: Admin/Coordinator Dashboard Contribution
+Member: Ashil 
+Status: In Progress
+
+Description:
+- Contributes organization data (records, verification status, coordination info) to the shared Admin/Coordinator Dashboard
