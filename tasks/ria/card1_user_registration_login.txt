@@ -1,0 +1,11 @@
+Card: Card 1
+Title: User Registration & Login
+Member: Ria Akter
+Status: Done
+
+Description:
+- Registration
+- Login
+- Authentication
+- Profile update
+- Role-based redirect
