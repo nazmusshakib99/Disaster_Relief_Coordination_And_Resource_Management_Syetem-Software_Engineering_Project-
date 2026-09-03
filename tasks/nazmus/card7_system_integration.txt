@@ -1,0 +1,10 @@
+Card: Card 7
+Title: System Integration
+Member: Nazmus Shakib
+Status: To Do
+
+Description:
+- Integrate team members' modules
+- Test database connections
+- Fix integration problems
+- Final system testing
