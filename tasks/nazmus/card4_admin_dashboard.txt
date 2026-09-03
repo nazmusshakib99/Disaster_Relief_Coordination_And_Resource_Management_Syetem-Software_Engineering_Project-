@@ -1,0 +1,13 @@
+Card: Card 4
+Title: Admin Dashboard
+Member: Nazmus Shakib
+Status: In Progress
+
+Description:
+- User overview
+- Emergency overview
+- Relief request overview
+- Volunteer overview
+- Shelter overview
+- Resource overview
+- UI Design: Admin Dashboard screen
