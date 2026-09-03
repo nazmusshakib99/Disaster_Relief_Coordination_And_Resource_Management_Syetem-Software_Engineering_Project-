@@ -1,0 +1,10 @@
+Card: Card 6
+Title: Testing — TC_01 to TC_04
+Member: Ria Akter
+Status: In Progress
+
+Description:
+- TC_01: Verify citizen can register with valid details
+- TC_02: Verify citizen can log in with valid credentials
+- TC_03: Verify citizen can submit an emergency report
+- TC_04: Verify citizen can submit a relief assistance request
