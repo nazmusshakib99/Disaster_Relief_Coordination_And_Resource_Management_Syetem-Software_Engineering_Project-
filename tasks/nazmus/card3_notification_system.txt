@@ -1,0 +1,10 @@
+Card: Card 3
+Title: Notification System
+Member: Nazmus Shakib
+Status: In Progress
+
+Description:
+- Request status notification
+- Volunteer task notification
+- Shelter/relief updates
+- Notification history
