@@ -1,0 +1,9 @@
+Card: Card 1
+Title: System Architecture & Design
+Member: Jinia Akter Hira
+Status: In Progress
+
+Description:
+- System architecture
+- Database design contribution
+- System diagram
