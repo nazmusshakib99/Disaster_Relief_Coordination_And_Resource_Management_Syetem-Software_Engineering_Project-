@@ -1,0 +1,14 @@
+Card: Card 3
+Title: Relief Assistance Request
+Member: Ria Akter
+Status: In Progress
+
+Description:
+- Food
+- Water
+- Medicine
+- Clothing
+- Shelter
+- Rescue
+- Quantity/level
+- Request status
