@@ -1,1 +1,2 @@
-# disaster-relief-coordination-system
+# Disaster_Relief_Coordination_And_Resource_Management_Syetem
+Software_Engineering_Project
